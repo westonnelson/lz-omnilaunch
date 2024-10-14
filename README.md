@@ -1,8 +1,12 @@
 # OmniLaunch
 
-OmniLaunch is a Web3 full-stack application designed to simplify the process of deploying or migrating to the OFT (Omnichain Fungible Token) standard by LayerZero. Our mission is to empower users, protocols, and DAOs with the tools they need to seamlessly transition to an Omnichain structure.
+OmniLaunch is a Web3 full-stack application designed to simplify the process of deploying or migrating to the OFT (Omnichain Fungible Token) standard by LayerZero. Our mission is to empower users, protocols, and DAOs with the tools they need to seamlessly transition to an Omnichain architecture to enable seamless interoperability.
 
-![OmniLaunch Logo](public/omnilaunch-icon.png)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/db162a7d-7041-42b0-b104-8b4d4a7b954a" alt="OmniLaunch">
+</p;
+</p;
+</p>
 
 ## Features
 
@@ -100,9 +104,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or support, please contact us at:
 
-- Email: support@omnilaunch.com
-- Twitter: [@OmniLaunch](https://twitter.com/OmniLaunch)
-- Discord: [OmniLaunch Community](https://discord.gg/omnilaunch)
+- Email: TBA
+- Twitter: [@OmniLaunch](https://x.com/)
+- Discord: [OmniLaunch Community](https://discord.gg)
 
 ## Acknowledgements
 
